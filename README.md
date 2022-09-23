@@ -7,3 +7,4 @@ https://www.dca.fee.unicamp.br/~vonzuben/theses/lnunes_mest/cap8.pdf
 http://computacaointeligente.com.br/algoritmos/mapas-auto-organizaveis/
 
 Para entendimento de como executar o algoritmo implementado, clique abaixo:
+https://github.com/SoaresLMB/Redes-de-Kohonen-Self-organizing-Maps-/blob/main/execucao_do_algoritmo.py
