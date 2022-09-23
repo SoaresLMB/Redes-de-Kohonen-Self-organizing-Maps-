@@ -1,4 +1,4 @@
-from algoritmo_de_kohonen import Kohonen
+from codigo_algoritmo_de_kohonen import Kohonen
 import pandas as pd
 
 # O algoritmo implantado entende os dados de treino e de teste como arrays,
